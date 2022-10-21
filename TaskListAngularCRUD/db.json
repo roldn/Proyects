@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 120,
+      "comment": "This is an Orange",
+      "date": "2022-10-18T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Microowave",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 30000,
+      "comment": "This is a brand new Microwave",
+      "date": "2022-10-18T03:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
